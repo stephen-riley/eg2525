@@ -1,0 +1,9 @@
+inkscape:path-effect="#path-effect62"
+<defs id="defs5">
+   <inkscape:path-effect effect="sketch" id="path-effect62" is_visible="true" lpeversion="1" nbiter_approxstrokes="1" parallel_offset="5;1" strokelength="86" strokelength_rdm="0.3;1" strokeoverlap="0.3" strokeoverlap_rdm="0.3;1" ends_tolerance="0.1;1" tremble_size="5;1" tremble_frequency="1.01" nbtangents="0" tgt_places_rdmness="1;1" tgtlength="100" tgtlength_rdm="0.3;1" tgtscale="10" />
+   <style>
+       g {
+         stroke-linecap: round;
+       }
+   </style>
+</defs>

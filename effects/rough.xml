@@ -1,0 +1,14 @@
+style="filter:url(#filter62)"
+<defs id="defs5">
+   <inkscape:path-effect effect="sketch" id="path-effect56" is_visible="true" lpeversion="1" nbiter_approxstrokes="5" parallel_offset="5;1" strokelength="100" strokelength_rdm="0.3;1" strokeoverlap="0.3" strokeoverlap_rdm="0.3;1" ends_tolerance="0.1;1" tremble_size="5;1" tremble_frequency="1" nbtangents="5" tgt_places_rdmness="1;1" tgtlength="100" tgtlength_rdm="0.3;1" tgtscale="10" />
+   <inkscape:path-effect effect="sketch" id="path-effect6" is_visible="true" lpeversion="1" nbiter_approxstrokes="1" parallel_offset="5;1" strokelength="106" strokelength_rdm="0.3;1" strokeoverlap="0.3" strokeoverlap_rdm="0;1" ends_tolerance="0.1;1" tremble_size="0.4;1" tremble_frequency="1" nbtangents="0" tgt_places_rdmness="1;1" tgtlength="84" tgtlength_rdm="0.3;1" tgtscale="10" />
+   <filter style="color-interpolation-filters:sRGB;" inkscape:label="Roughen" id="filter62" x="-0.013333333" y="-0.015686275" width="1.0266667" height="1.0313725">
+      <feTurbulence type="fractalNoise" numOctaves="5" seed="8" baseFrequency="0.035 0.024" result="turbulence" id="feTurbulence62" />
+      <feDisplacementMap in="SourceGraphic" in2="turbulence" scale="8.1" yChannelSelector="G" xChannelSelector="R" id="feDisplacementMap62" />
+   </filter>
+   <style>
+       g {
+         stroke-linecap: round;
+       }
+   </style>
+</defs>
