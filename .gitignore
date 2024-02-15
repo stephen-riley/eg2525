@@ -2,3 +2,4 @@ basic_svg/*
 munged/*
 png/*
 tmp/*
+.DS_Store
