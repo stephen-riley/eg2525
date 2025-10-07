@@ -2,3 +2,4 @@ basic_svg/*
 munged/*
 tmp/*
 .DS_Store
+.vscode/perl-lang
