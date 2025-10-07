@@ -26,6 +26,10 @@ Outputs icons in the following folders:
 - `munged/` contains the SVGs after having effects applied
 - `png/` contains all the resulting PNG files
 
+## Output
+
+The png/ folder contains some output examples of icons in different, munged forms.
+
 # Sources
 
 The excellent [milsymbol](https://spatialillusions.com/milsymbol/) project from Spatial Illusions provides the rendering code.
