@@ -28,7 +28,7 @@ Outputs icons in the following folders:
 
 ## Output
 
-The png/ folder contains some output examples of icons in different, munged forms.
+The [`png/`](png) folder contains some output examples of icons in different, munged forms.  For example, [this icon](png/WAR.GRDTRK.UNT.CBT.ARM_paper.png) is the symbol for an armor platoon drawn on rumpled paper.
 
 # Sources
 
